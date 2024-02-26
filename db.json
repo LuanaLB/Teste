@@ -1,35 +1,35 @@
 {
   "estudantes": [
     {
-      "nome": "Ana Maria",
-      "ano_nascimento": 1999,
+      "nome": "Juliana",
+      "ano_nascimento": 2000,
       "notas": {
         "n1": 9,
-        "n2": 4,
-        "n3": 4
+        "n2": 9,
+        "n3": 9
       }
     },
     {
-      "nome": "Wellington",
-      "ano_nascimento": 2002,
+      "nome": "Henrique",
+      "ano_nascimento": 1956,
       "notas": {
         "n1": 10,
         "n2": 7,
-        "n3": 4
-      }
-    },
-    {
-      "nome": "Luana",
-      "ano_nascimento": 1988,
-      "notas": {
-        "n1": 6,
-        "n2": 7,
-        "n3": 5
+        "n3": 7
       }
     },
     {
       "nome": "José",
-      "ano_nascimento": 1995,
+      "ano_nascimento": 1988,
+      "notas": {
+        "n1": 5,
+        "n2": 3,
+        "n3": 4
+      }
+    },
+    {
+      "nome": "Maria",
+      "ano_nascimento": 1997,
       "notas": {
         "n1": 6,
         "n2": 5,
@@ -37,12 +37,12 @@
       }
     },
     {
-      "nome": "Victor",
+      "nome": "Henry",
       "ano_nascimento": 1982,
       "notas": {
-        "n1": 4,
-        "n2": 6,
-        "n3": 3
+        "n1": 7,
+        "n2": 7,
+        "n3": 7
       }
     }
   ]
